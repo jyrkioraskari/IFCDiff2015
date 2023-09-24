@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;fi.ni.nodenamer.ExportIFC2RDF&apos; to &apos;ExportRDF2N3&apos;&#x0D;&#x0A;- Original project: &apos;ExportRDF2N3&apos;&#x0D;&#x0A;- Original element: &apos;fi.ni.nodenamer.ExportIFC2RDF&apos;&#x0D;&#x0A;- Renamed element: &apos;fi.ni.nodenamer.ExportRDF2N3&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ExportIFC2RDF&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;fi.ni.nodenamer{ExportIFC2RDF.java[ExportIFC2RDF" matchStrategy="1" name="ExportRDF2N3" qualified="false" references="true" similarDeclarations="false" stamp="1399552209706" textual="false" version="1.0"/>
+</session>

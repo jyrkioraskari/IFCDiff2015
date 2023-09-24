@@ -1,0 +1,1679 @@
+[
+  {
+    "symbolicName": "commons-codec-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fd32786786e2adb664d5ecc965da47629dca14ba",
+    "jarFileModificationDate": "2013-06-03T15:04:56+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\GeometryDiff_2014\\lib\\commons-codec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math3",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec2544ab27e110d2d431bdad7d538ed509b21e62",
+    "jarFileModificationDate": "2013-08-26T16:29:24+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\NearestPath_2014\\lib\\commons-math3-3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d54a34bb0da20fa735631c56daf8b749f63a3b22",
+    "jarFileModificationDate": "2013-02-04T14:19:31.882+02:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "oshi-core",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "78b100f585998de948f6f4aa219839734eb512e1",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\Diff_AA_2014\\lib\\oshi-core.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "apfloat",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ed6931e7caddaf2f025db33eab48d7e7258d023f",
+    "jarFileModificationDate": "2013-09-13T17:59:52+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\GeometryDiff_2014\\lib\\apfloat.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "oshi-core",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "78b100f585998de948f6f4aa219839734eb512e1",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\AAPathsNamer_2014\\lib\\oshi-core.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cf993e250ff71804754ec2734a16f23c0be99f70",
+    "jarFileModificationDate": "2011-07-15T19:29:12+03:00",
+    "location": "C:\\jo\\Jena\\commons-codec-1.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.thoughtworks.xstream.xstream",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "97e5013f391487cce4de6b0eebcde21549e91872",
+    "jarFileModificationDate": "2013-01-25T16:31:52.502+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF\\lib\\xstream-1.4.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xml-apis-1.4.01",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3789d9fada2d3d458c4ba2de349d48780f381ee3",
+    "jarFileModificationDate": "2013-02-27T19:24:31.307+02:00",
+    "location": "C:\\java_libraries\\jena\\xml-apis-1.4.01.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "platform",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bfbe7553533d0de9148955621cc7c21db9fdb4b3",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\NearestPath_LP_2014\\lib\\platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.jena.jena-iri",
+    "version": {
+      "major": 0,
+      "minor": 9,
+      "micro": 5,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "734b59f762b02a0bb5db2f0761883486d683b589",
+    "jarFileModificationDate": "2013-02-27T19:24:34.077+02:00",
+    "location": "C:\\java_libraries\\jena\\jena-iri-0.9.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "platform",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bfbe7553533d0de9148955621cc7c21db9fdb4b3",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\ListClasses_AAPathsNamer_2014\\lib\\platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "platform",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bfbe7553533d0de9148955621cc7c21db9fdb4b3",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\JenaDiff\\lib\\platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "toolkits_1-2-0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1f893ba7bdeb021ea1b2ea48a6bac18d24465219",
+    "jarFileModificationDate": "2013-01-25T16:31:53.216+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF\\lib\\toolkits_1-2-0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.collections",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "761ea405b9b37ced573d2df0d1e3a4e0f9edc668",
+    "jarFileModificationDate": "2013-01-25T16:31:53.380+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF\\lib\\commons-collections-3.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "oshi-core",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "78b100f585998de948f6f4aa219839734eb512e1",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\AAPathsNamer2_2014\\lib\\oshi-core.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "oshi-core",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "78b100f585998de948f6f4aa219839734eb512e1",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\NearestPath_LP_2014\\lib\\oshi-core.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jakarta-oro-2.0.5",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b0a671ca3fb8b9c4a6742be7be67af2537452805",
+    "jarFileModificationDate": "2014-04-08T15:12:58.467+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\jakarta-oro-2.0.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3d1a9689f1c8e36ab64fb669df92076771c42f2",
+    "jarFileModificationDate": "2013-02-04T14:19:30.196+02:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jcl.over.slf4j",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "aad8e9df65ebb68e3ba6f269e3312707f7f1065f",
+    "jarFileModificationDate": "2013-02-27T19:24:31.820+02:00",
+    "location": "C:\\java_libraries\\jena\\jcl-over-slf4j-1.6.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "platform",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bfbe7553533d0de9148955621cc7c21db9fdb4b3",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\NewAA_2014\\lib\\platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "apfloat",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ed6931e7caddaf2f025db33eab48d7e7258d023f",
+    "jarFileModificationDate": "2013-09-13T17:59:52+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\AAPathsNamer_2014\\lib\\apfloat.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math3",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec2544ab27e110d2d431bdad7d538ed509b21e62",
+    "jarFileModificationDate": "2013-08-26T16:29:24+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\AAPathsNamer_2014\\lib\\commons-math3-3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-codec-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fd32786786e2adb664d5ecc965da47629dca14ba",
+    "jarFileModificationDate": "2013-06-03T15:04:56+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\NearestPath_2014\\lib\\commons-codec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "toolkits_1-2-0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1f893ba7bdeb021ea1b2ea48a6bac18d24465219",
+    "jarFileModificationDate": "2013-01-25T16:31:53.216+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF_save\\lib\\toolkits_1-2-0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "openifctools.com.openifcjavatoolbox_1.0.1_20111129",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0a0f055e6566d3ca0cee440680fdfbcccd5bd1ed",
+    "jarFileModificationDate": "2013-01-25T16:31:54.021+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF\\lib\\openifctools.com.openifcjavatoolbox_1.0.1_20111129.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "bcprov-jdk14-125",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6487de03ce9e5b3cd6927ad2fde5bd17b0c4defc",
+    "jarFileModificationDate": "2014-04-08T15:12:58.412+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\bcprov-jdk14-125.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "log4j",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 16,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7999a63bfccbc7c247a9aea10d83d4272bd492c6",
+    "jarFileModificationDate": "2011-04-01T20:58:28+03:00",
+    "location": "C:\\jo\\Jena\\log4j-1.2.16.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math3",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec2544ab27e110d2d431bdad7d538ed509b21e62",
+    "jarFileModificationDate": "2013-08-26T16:29:24+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\GeometryDiff_2014\\lib\\commons-math3-3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "slf4j.api",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1dce33c53f324c6b197cc38447ada41fd3d32697",
+    "jarFileModificationDate": "2013-01-25T16:31:52.780+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF\\lib\\slf4j-api-1.5.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "760c711c71588bc273d3e56d196d720a7678cd93",
+    "jarFileModificationDate": "2014-04-08T15:12:58.413+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\commons-logging.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xercesImpl-2.10.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9161654d2afe7f9063455f02ccca8e4ec2787222",
+    "jarFileModificationDate": "2013-02-27T19:24:35.383+02:00",
+    "location": "C:\\java_libraries\\jena\\xercesImpl-2.10.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "apfloat",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ed6931e7caddaf2f025db33eab48d7e7258d023f",
+    "jarFileModificationDate": "2013-09-13T17:59:52+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\GeometryPath_2014\\lib\\apfloat.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "antlr",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "546b5220622c4d9b2da45ad1899224b6ce1c8830",
+    "jarFileModificationDate": "2014-04-08T15:12:58.406+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\antlr.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6d1e61fcaa7f751a501b683f5988b8d9755a8669",
+    "jarFileModificationDate": "2013-02-04T14:19:31.859+02:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b76bee23cd3f3ee9b98bc7c2c14670e821ddbbfd",
+    "jarFileModificationDate": "2013-02-27T19:24:31.798+02:00",
+    "location": "C:\\java_libraries\\jena\\httpcore-4.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.jena.jena-tdb",
+    "version": {
+      "major": 0,
+      "minor": 10,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d1d5670fa298fd0f7e5c8c4b3e22eb956051e8a6",
+    "jarFileModificationDate": "2013-02-27T19:24:34.381+02:00",
+    "location": "C:\\java_libraries\\jena\\jena-tdb-0.10.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-codec-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fd32786786e2adb664d5ecc965da47629dca14ba",
+    "jarFileModificationDate": "2013-06-03T15:04:56+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\Diff_AA_2014\\lib\\commons-codec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math3",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec2544ab27e110d2d431bdad7d538ed509b21e62",
+    "jarFileModificationDate": "2013-08-26T16:29:24+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\JenaDiff\\lib\\commons-math3-3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "37434c0ca800bdc8a61ac69fe86affd04ecf5aca",
+    "jarFileModificationDate": "2013-02-04T14:19:30.211+02:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "commons-codec-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fd32786786e2adb664d5ecc965da47629dca14ba",
+    "jarFileModificationDate": "2013-06-03T15:04:56+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\NearestPath_LP_2014\\lib\\commons-codec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "openrdf-model",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ada03c6b5c2273a2a08e5704e2c6bb75937ddeb5",
+    "jarFileModificationDate": "2014-04-08T15:12:58.485+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\openrdf-model.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "platform",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bfbe7553533d0de9148955621cc7c21db9fdb4b3",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\GeometryPath_2014\\lib\\platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xml-apis-1.4.01",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3789d9fada2d3d458c4ba2de349d48780f381ee3",
+    "jarFileModificationDate": "2011-12-09T11:11:48+02:00",
+    "location": "C:\\jo\\Jena\\xml-apis-1.4.01.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math3",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec2544ab27e110d2d431bdad7d538ed509b21e62",
+    "jarFileModificationDate": "2013-08-26T16:29:24+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\GeometryPath_2014\\lib\\commons-math3-3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "oshi-core",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "78b100f585998de948f6f4aa219839734eb512e1",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\GeometryDiff_2014\\lib\\oshi-core.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "bcpg-jdk14-125",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9c18c2da5c68dd8359e5d53a5f2b4e9259b78bb1",
+    "jarFileModificationDate": "2014-04-08T15:12:58.407+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\bcpg-jdk14-125.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "oshi-core",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "78b100f585998de948f6f4aa219839734eb512e1",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\NewAA_2014\\lib\\oshi-core.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xercesImpl-2.10.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9161654d2afe7f9063455f02ccca8e4ec2787222",
+    "jarFileModificationDate": "2011-12-09T11:11:48+02:00",
+    "location": "C:\\jo\\Jena\\xercesImpl-2.10.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "platform",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bfbe7553533d0de9148955621cc7c21db9fdb4b3",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\Diff_AA_2014\\lib\\platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.jena.jena-core",
+    "version": {
+      "major": 2,
+      "minor": 10,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "59ff2a9cfbf195d795853c4c2d57c997cbde7ce2",
+    "jarFileModificationDate": "2013-02-27T19:24:34.013+02:00",
+    "location": "C:\\java_libraries\\jena\\jena-core-2.10.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.jena.jena-core",
+    "version": {
+      "major": 2,
+      "minor": 7,
+      "micro": 0,
+      "qualifier": "incubating"
+    },
+    "jarFileFingerprint": "565497dcd9570714934dee2d1c96b8b6cb63b031",
+    "jarFileModificationDate": "2011-12-14T14:54:48+02:00",
+    "location": "C:\\jo\\Jena\\jena-core-2.7.0-incubating.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3c6e6c762b558068f39b5b5c6aa2604e3f335d6d",
+    "jarFileModificationDate": "2013-02-04T14:19:30.197+02:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "commons-codec-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fd32786786e2adb664d5ecc965da47629dca14ba",
+    "jarFileModificationDate": "2013-06-03T15:04:56+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\AAPathsNamer_2014\\lib\\commons-codec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math3",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec2544ab27e110d2d431bdad7d538ed509b21e62",
+    "jarFileModificationDate": "2013-08-26T16:29:24+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\NearestPath_LP_2014\\lib\\commons-math3-3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "oshi-core",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "78b100f585998de948f6f4aa219839734eb512e1",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\NearestPath_2014\\lib\\oshi-core.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b7f0fc8f61ecadeb3695f0b9464755eee44374d4",
+    "jarFileModificationDate": "2013-01-25T16:31:53.200+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF_save\\lib\\commons-codec-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.openrdf.sesame.sesame-util",
+    "version": {
+      "major": 2,
+      "minor": 6,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "40deb63face6c2e06fddb2034549d58e21d92c9a",
+    "jarFileModificationDate": "2013-01-25T16:31:53.610+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF\\lib\\openrdf-sesame-2.6.3-onejar.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "slf4j.jdk14",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ab429ab9584571890a01a4f2c0f289516064f30a",
+    "jarFileModificationDate": "2013-01-25T16:31:53.961+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF_save\\lib\\slf4j-jdk14-1.5.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.collections",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "761ea405b9b37ced573d2df0d1e3a4e0f9edc668",
+    "jarFileModificationDate": "2013-01-25T16:31:53.380+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF_save\\lib\\commons-collections-3.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "slf4j.api",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2396d74b12b905f780ed7966738bb78438e8371a",
+    "jarFileModificationDate": "2013-02-27T19:24:34.669+02:00",
+    "location": "C:\\java_libraries\\jena\\slf4j-api-1.6.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "virt_sesame2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "24846959b5b7ad2246d3f1be4f3d90502a6f046d",
+    "jarFileModificationDate": "2013-01-25T16:31:52.485+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF_save\\lib\\virt_sesame2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "platform",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bfbe7553533d0de9148955621cc7c21db9fdb4b3",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\GeometryDiff_2014\\lib\\platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5da320e46f1c616986563b2e788b5a0569cad088",
+    "jarFileModificationDate": "2013-02-04T14:19:30.195+02:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "log4j",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 16,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7999a63bfccbc7c247a9aea10d83d4272bd492c6",
+    "jarFileModificationDate": "2013-02-27T19:24:34.641+02:00",
+    "location": "C:\\java_libraries\\jena\\log4j-1.2.16.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "openrdf-util",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6fd9754384787b2d98ccc12b00fce2673f9c4b1f",
+    "jarFileModificationDate": "2014-04-08T15:12:58.485+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\openrdf-util.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.openrdf.sesame.sesame-util",
+    "version": {
+      "major": 2,
+      "minor": 6,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "40deb63face6c2e06fddb2034549d58e21d92c9a",
+    "jarFileModificationDate": "2013-01-25T16:31:53.610+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF_save\\lib\\openrdf-sesame-2.6.3-onejar.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math3",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec2544ab27e110d2d431bdad7d538ed509b21e62",
+    "jarFileModificationDate": "2013-08-26T16:29:24+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\AAPathsNamer2_2014\\lib\\commons-math3-3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "platform",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bfbe7553533d0de9148955621cc7c21db9fdb4b3",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\AAPathsNamer2_2014\\lib\\platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "oshi-core",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "78b100f585998de948f6f4aa219839734eb512e1",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\JenaDiff\\lib\\oshi-core.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "apfloat",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ed6931e7caddaf2f025db33eab48d7e7258d023f",
+    "jarFileModificationDate": "2013-09-13T17:59:52+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\NearestPath_2014\\lib\\apfloat.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.thoughtworks.xstream.xstream",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "97e5013f391487cce4de6b0eebcde21549e91872",
+    "jarFileModificationDate": "2013-01-25T16:31:52.502+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF_save\\lib\\xstream-1.4.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "JenaSesameModel",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d4e187689cd620ca05b1bff454754309a43ee8a4",
+    "jarFileModificationDate": "2014-04-08T15:12:58.479+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\JenaSesameModel.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "apfloat",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ed6931e7caddaf2f025db33eab48d7e7258d023f",
+    "jarFileModificationDate": "2013-09-13T17:59:52+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\NewAA_2014\\lib\\apfloat.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jena",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "321a2cb8c6ef3aa38f061cd00728461ba3119860",
+    "jarFileModificationDate": "2014-04-08T15:12:58.478+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\jena.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f831655c50b92c41e366442d09511ea84270c45e",
+    "jarFileModificationDate": "2013-02-04T14:19:30.210+02:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "oshi-core",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "78b100f585998de948f6f4aa219839734eb512e1",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\ListClasses_AAPathsNamer_2014\\lib\\oshi-core.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 1,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9003011c1b6d28a7331f04251a25e7ccf63c98f8",
+    "jarFileModificationDate": "2011-08-06T18:36:40+03:00",
+    "location": "C:\\jo\\Jena\\httpclient-4.1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "virt_sesame2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "24846959b5b7ad2246d3f1be4f3d90502a6f046d",
+    "jarFileModificationDate": "2013-01-25T16:31:52.485+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF\\lib\\virt_sesame2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "99129f16442844f6a4a11ae22fbbee40b14d774f",
+    "jarFileModificationDate": "2014-04-08T15:12:58.481+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\junit.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "slf4j.jdk14",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ab429ab9584571890a01a4f2c0f289516064f30a",
+    "jarFileModificationDate": "2013-01-25T16:31:53.961+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF\\lib\\slf4j-jdk14-1.5.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "platform",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bfbe7553533d0de9148955621cc7c21db9fdb4b3",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\NearestPath_2014\\lib\\platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "apfloat",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ed6931e7caddaf2f025db33eab48d7e7258d023f",
+    "jarFileModificationDate": "2013-09-13T17:59:52+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\Diff_AA_2014\\lib\\apfloat.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "slf4j.log4j12",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6b4973e0320e220ec6534478d60233fd1cc51c9b",
+    "jarFileModificationDate": "2011-12-09T14:22:16+02:00",
+    "location": "C:\\jo\\Jena\\slf4j-log4j12-1.6.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.jena.jena-arq",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": "incubating"
+    },
+    "jarFileFingerprint": "f2e6875628bbf24d4b15b75ea510684b7e0049e9",
+    "jarFileModificationDate": "2011-12-14T15:04:46+02:00",
+    "location": "C:\\jo\\Jena\\jena-arq-2.9.0-incubating.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "99a4f4c8ee86316dd78933705a598fad2c95c808",
+    "jarFileModificationDate": "2013-02-04T14:19:30.234+02:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "commons-codec-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fd32786786e2adb664d5ecc965da47629dca14ba",
+    "jarFileModificationDate": "2013-06-03T15:04:56+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\GeometryPath_2014\\lib\\commons-codec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.jena.jena-arq",
+    "version": {
+      "major": 2,
+      "minor": 10,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e9b02909836171590e6ea3750621a1acb719d978",
+    "jarFileModificationDate": "2013-02-27T19:24:33.161+02:00",
+    "location": "C:\\java_libraries\\jena\\jena-arq-2.10.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.jena.jena-iri",
+    "version": {
+      "major": 0,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": "incubating"
+    },
+    "jarFileFingerprint": "9b9eeb1ae03060a9f8c392ea5803a1e8de2cf069",
+    "jarFileModificationDate": "2011-12-14T14:47:58+02:00",
+    "location": "C:\\jo\\Jena\\jena-iri-0.9.0-incubating.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "slf4j.api",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1dce33c53f324c6b197cc38447ada41fd3d32697",
+    "jarFileModificationDate": "2013-01-25T16:31:52.780+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF_save\\lib\\slf4j-api-1.5.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b7f0fc8f61ecadeb3695f0b9464755eee44374d4",
+    "jarFileModificationDate": "2013-02-27T19:24:31.425+02:00",
+    "location": "C:\\java_libraries\\jena\\commons-codec-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math3",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec2544ab27e110d2d431bdad7d538ed509b21e62",
+    "jarFileModificationDate": "2013-08-26T16:29:24+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\NewAA_2014\\lib\\commons-math3-3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-codec-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fd32786786e2adb664d5ecc965da47629dca14ba",
+    "jarFileModificationDate": "2013-06-03T15:04:56+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\AAPathsNamer2_2014\\lib\\commons-codec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "log4j-1.2.8",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3640dd71069d7986c9a14d333519216f4ca5c094",
+    "jarFileModificationDate": "2014-04-08T15:12:58.484+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\log4j-1.2.8.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b2368611d229333a7f78599deba9117f11118731",
+    "jarFileModificationDate": "2013-02-04T14:19:30.188+02:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\access-bridge-64.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "xml-apis",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "065acede1e5305bd2b92213d7b5761328c6f4fd9",
+    "jarFileModificationDate": "2014-04-08T15:12:58.497+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\xml-apis.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "platform",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bfbe7553533d0de9148955621cc7c21db9fdb4b3",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\AAPathsNamer_2014\\lib\\platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jug",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "668f9b60696417fd003f97c80fa297e2015c324e",
+    "jarFileModificationDate": "2014-04-08T15:12:58.480+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\jug.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0219ab134947982060a81a181a95b4d394f2cca7",
+    "jarFileModificationDate": "2013-02-04T14:19:30.189+02:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "sesame",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "93291175c7c9e0b22ebbbec7c5d4c552e3c11112",
+    "jarFileModificationDate": "2014-04-08T15:12:58.491+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\sesame.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math3",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec2544ab27e110d2d431bdad7d538ed509b21e62",
+    "jarFileModificationDate": "2013-08-26T16:29:24+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\Diff_AA_2014\\lib\\commons-math3-3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "apfloat",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ed6931e7caddaf2f025db33eab48d7e7258d023f",
+    "jarFileModificationDate": "2013-09-13T17:59:52+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\JenaDiff\\lib\\apfloat.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "virtjdbc3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "afdf6bf8e2a1a8baeb76f4bc721b20b3990537a4",
+    "jarFileModificationDate": "2013-01-25T16:31:53.821+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF\\lib\\virtjdbc3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "apfloat",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ed6931e7caddaf2f025db33eab48d7e7258d023f",
+    "jarFileModificationDate": "2013-09-13T17:59:52+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\NearestPath_LP_2014\\lib\\apfloat.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "37ced84d839a02fb856255eca85f0a4be95aa634",
+    "jarFileModificationDate": "2013-02-27T19:24:31.659+02:00",
+    "location": "C:\\java_libraries\\jena\\httpclient-4.2.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "icu4j",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3893fa762631e97b85706d8c9ac933f25ba34c7a",
+    "jarFileModificationDate": "2014-04-08T15:12:58.465+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\icu4j.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 1,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "da661877d4736e4c98c155b734ebeaa103bff5b2",
+    "jarFileModificationDate": "2011-12-09T14:10:36+02:00",
+    "location": "C:\\jo\\Jena\\httpcore-4.1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "concurrent",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "366f99d2a9bdd286220baea4ba2574f193665a01",
+    "jarFileModificationDate": "2014-04-08T15:12:58.414+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\concurrent.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-codec-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fd32786786e2adb664d5ecc965da47629dca14ba",
+    "jarFileModificationDate": "2013-06-03T15:04:56+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\NewAA_2014\\lib\\commons-codec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xercesImpl",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "897bcb56d6b7fe2070a5f561bfc78968ecdd3851",
+    "jarFileModificationDate": "2014-04-08T15:12:58.496+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\xercesImpl.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c4c7923b11e98bc8d1d32bfd2ff6363d212ead80",
+    "jarFileModificationDate": "2013-02-04T14:19:30.194+02:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "commons-codec-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fd32786786e2adb664d5ecc965da47629dca14ba",
+    "jarFileModificationDate": "2013-06-03T15:04:56+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\JenaDiff\\lib\\commons-codec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1a9ef217dec023beefe8db76b69bc61fa89b8e36",
+    "jarFileModificationDate": "2013-02-04T14:19:31.704+02:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "slf4j.log4j12",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6b4973e0320e220ec6534478d60233fd1cc51c9b",
+    "jarFileModificationDate": "2013-02-27T19:24:34.686+02:00",
+    "location": "C:\\java_libraries\\jena\\slf4j-log4j12-1.6.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.ibm.icu",
+    "version": {
+      "major": 53,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "786d9055d4ca8c1aab4a7d4ac8283f973fd7e41f",
+    "jarFileModificationDate": "2014-04-08T15:12:58.451+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\icu4j-53_1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "apfloat",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ed6931e7caddaf2f025db33eab48d7e7258d023f",
+    "jarFileModificationDate": "2013-09-13T17:59:52+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\AAPathsNamer2_2014\\lib\\apfloat.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "slf4j.api",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2396d74b12b905f780ed7966738bb78438e8371a",
+    "jarFileModificationDate": "2011-12-09T14:22:14+02:00",
+    "location": "C:\\jo\\Jena\\slf4j-api-1.6.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "55117c1cc5d208694c21188f2ed8216d4a444fe5",
+    "jarFileModificationDate": "2013-02-04T14:19:30.190+02:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "rio",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3652010d9bbf55e40fd43ea5a8489b88cf4acb5f",
+    "jarFileModificationDate": "2014-04-08T15:12:58.486+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\rio.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-codec-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fd32786786e2adb664d5ecc965da47629dca14ba",
+    "jarFileModificationDate": "2013-06-03T15:04:56+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\ListClasses_AAPathsNamer_2014\\lib\\commons-codec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "openifctools.com.openifcjavatoolbox_1.0.1_20111129",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0a0f055e6566d3ca0cee440680fdfbcccd5bd1ed",
+    "jarFileModificationDate": "2013-01-25T16:31:54.021+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF_save\\lib\\openifctools.com.openifcjavatoolbox_1.0.1_20111129.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "apfloat",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ed6931e7caddaf2f025db33eab48d7e7258d023f",
+    "jarFileModificationDate": "2013-09-13T17:59:52+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\ListClasses_AAPathsNamer_2014\\lib\\apfloat.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b7f0fc8f61ecadeb3695f0b9464755eee44374d4",
+    "jarFileModificationDate": "2013-01-25T16:31:53.200+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF\\lib\\commons-codec-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "icu4j-3.4.4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "21cf76ccd5eccf7145eeb1d4f398fc6dba3fcede",
+    "jarFileModificationDate": "2010-08-25T20:03:06+03:00",
+    "location": "C:\\jo\\Jena\\icu4j-3.4.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "oshi-core",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "78b100f585998de948f6f4aa219839734eb512e1",
+    "jarFileModificationDate": "2013-05-17T19:25:10+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\GeometryPath_2014\\lib\\oshi-core.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math3",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec2544ab27e110d2d431bdad7d538ed509b21e62",
+    "jarFileModificationDate": "2013-08-26T16:29:24+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\ListClasses_AAPathsNamer_2014\\lib\\commons-math3-3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jakarta-oro-2.0.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9bf891e10361d84d2e1dc07bfe853d5a5050a9b3",
+    "jarFileModificationDate": "2014-04-08T15:12:58.466+03:00",
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\jakarta-oro-2.0.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c43151f0efe4a7a4e8194015fc29257279215c60",
+    "jarFileModificationDate": "2013-02-04T14:19:31.657+02:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "virtjdbc3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "afdf6bf8e2a1a8baeb76f4bc721b20b3990537a4",
+    "jarFileModificationDate": "2013-01-25T16:31:53.821+02:00",
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF_save\\lib\\virtjdbc3.jar",
+    "javaRuntime": false
+  }
+]

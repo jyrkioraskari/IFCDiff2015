@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;fi.ni.MassTestDiffAA&apos; to &apos;JenaDiff&apos;&#x0D;&#x0A;- Original project: &apos;JenaDiff&apos;&#x0D;&#x0A;- Original element: &apos;fi.ni.MassTestDiffAA&apos;&#x0D;&#x0A;- Renamed element: &apos;fi.ni.JenaDiff&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MassTestDiffAA&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;fi.ni{MassTestDiffAA.java[MassTestDiffAA" matchStrategy="1" name="JenaDiff" qualified="false" references="true" similarDeclarations="false" stamp="1396515639372" textual="false" version="1.0"/>
+</session>

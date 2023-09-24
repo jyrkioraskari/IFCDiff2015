@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.OutputStream"/>
+<fullyQualifiedTypeName name="com.hp.hpl.jena.graph.Node_URI"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.nio.file.Path"/>
+<fullyQualifiedTypeName name="fi.ni.model.datastructure.Path"/>
+<fullyQualifiedTypeName name="fi.ni.nodenamer.ExportIFC2RDF"/>
+<fullyQualifiedTypeName name="fi.ni.SMapping"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="fi.ni.model.datastructure.Connection"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="fi.ni.GenerateBlankNodeRDF"/>
+<fullyQualifiedTypeName name="fi.ni.nodenamer.datastructure.Connection"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="guidcompressor.GuidCompressor"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+<fullyQualifiedTypeName name="fi.ni.model.datastructure.Node"/>
+</qualifiedTypeNameHistroy>

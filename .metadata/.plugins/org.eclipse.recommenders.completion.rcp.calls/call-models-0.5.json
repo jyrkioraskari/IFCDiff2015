@@ -1,0 +1,92 @@
+{
+  "C:\\workspace\\IFCDiff2\\JenaDiff\\src": {
+    "location": "C:\\workspace\\IFCDiff2\\JenaDiff\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\IFCDiff2\\JenaDiff\\src\u0027. Skipped."
+  },
+  "C:\\java_libraries\\jena\\jena-core-2.10.0.jar": {
+    "location": "C:\\java_libraries\\jena\\jena-core-2.10.0.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\java_libraries\\jena\\jena-core-2.10.0.jar\u0027. Neither fingerprint \u002759ff2a9cfbf195d795853c4c2d57c997cbde7ce2\u0027 nor symbolic name \u0027org.apache.jena.jena-core\u0027 are known."
+  },
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "C:\\workspace\\IFCDiff2\\CanonizationDiff\\src": {
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\IFCDiff2\\CanonizationDiff\\src\u0027. Skipped."
+  },
+  "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\jena.jar": {
+    "location": "C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\jena.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\workspace\\IFCDiff2\\CanonizationDiff\\lib\\jena.jar\u0027. Neither fingerprint \u0027321a2cb8c6ef3aa38f061cd00728461ba3119860\u0027 nor symbolic name \u0027jena\u0027 are known."
+  },
+  "C:\\workspace\\IFCDiff2\\IFC_RDF\\src": {
+    "location": "C:\\workspace\\IFCDiff2\\IFC_RDF\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\IFCDiff2\\IFC_RDF\\src\u0027. Skipped."
+  },
+  "C:\\workspace\\IFCDiff2\\AAFromPseudo\\src": {
+    "location": "C:\\workspace\\IFCDiff2\\AAFromPseudo\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\IFCDiff2\\AAFromPseudo\\src\u0027. Skipped."
+  },
+  "C:\\workspace\\IFCDiff2\\ExportIFC2RDF\\src": {
+    "location": "C:\\workspace\\IFCDiff2\\ExportIFC2RDF\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\IFCDiff2\\ExportIFC2RDF\\src\u0027. Skipped."
+  },
+  "C:\\workspace\\IFCDiff2\\SNSAFromPseudo\\src": {
+    "location": "C:\\workspace\\IFCDiff2\\SNSAFromPseudo\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\IFCDiff2\\SNSAFromPseudo\\src\u0027. Skipped."
+  },
+  "C:\\workspace\\IFCDiff2\\AlgSignFromPseudo\\src": {
+    "location": "C:\\workspace\\IFCDiff2\\AlgSignFromPseudo\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\IFCDiff2\\AlgSignFromPseudo\\src\u0027. Skipped."
+  },
+  "C:\\workspace\\IFCDiff2\\GeneratePersonRDF\\src": {
+    "location": "C:\\workspace\\IFCDiff2\\GeneratePersonRDF\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\IFCDiff2\\GeneratePersonRDF\\src\u0027. Skipped."
+  },
+  "C:\\workspace\\IFCDiff2\\SNSAFromPseudo2\\src": {
+    "location": "C:\\workspace\\IFCDiff2\\SNSAFromPseudo2\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\IFCDiff2\\SNSAFromPseudo2\\src\u0027. Skipped."
+  },
+  "C:\\workspace\\IFCDiff2\\NewAA_2014\\src": {
+    "location": "C:\\workspace\\IFCDiff2\\NewAA_2014\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\IFCDiff2\\NewAA_2014\\src\u0027. Skipped."
+  },
+  "C:\\workspace\\IFCDiff2\\NearestPath_2014\\src": {
+    "location": "C:\\workspace\\IFCDiff2\\NearestPath_2014\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\IFCDiff2\\NearestPath_2014\\src\u0027. Skipped."
+  },
+  "C:\\workspace\\IFCDiff2\\NearestPath_LP_2014\\src": {
+    "location": "C:\\workspace\\IFCDiff2\\NearestPath_LP_2014\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\IFCDiff2\\NearestPath_LP_2014\\src\u0027. Skipped."
+  },
+  "C:\\workspace\\IFCDiff2\\GeometryPath_2014\\src": {
+    "location": "C:\\workspace\\IFCDiff2\\GeometryPath_2014\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\IFCDiff2\\GeometryPath_2014\\src\u0027. Skipped."
+  },
+  "C:\\workspace\\IFCDiff2\\AAPathsNamer_2014\\src": {
+    "location": "C:\\workspace\\IFCDiff2\\AAPathsNamer_2014\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\IFCDiff2\\AAPathsNamer_2014\\src\u0027. Skipped."
+  },
+  "C:\\workspace\\IFCDiff2\\ListClasses_AAPathsNamer_2014\\src": {
+    "location": "C:\\workspace\\IFCDiff2\\ListClasses_AAPathsNamer_2014\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\IFCDiff2\\ListClasses_AAPathsNamer_2014\\src\u0027. Skipped."
+  }
+}

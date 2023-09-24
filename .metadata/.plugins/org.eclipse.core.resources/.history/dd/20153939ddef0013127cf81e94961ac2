@@ -1,0 +1,160 @@
+package fi.ni.nodenamer;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
+import java.util.Queue;
+import java.util.Set;
+
+import fi.ni.nodenamer.datastructure.Connection;
+import fi.ni.nodenamer.datastructure.Node;
+import fi.ni.nodenamer.datastructure.Path;
+import fi.ni.nodenamer.stats.ClassPropertyStatsBag;
+import fi.ni.util.StringChecksum;
+
+public class PathsNamer {
+	Node bn;
+	final ClassPropertyStatsBag classbag;
+
+	public PathsNamer(Node blank_node, ClassPropertyStatsBag classbag) {
+		bn = blank_node;
+		this.classbag = classbag;
+	}
+
+	public void run(int steps) {
+		try {
+			List<Path> cpaths = getCandidatepaths(bn, steps);
+
+			List<String> csums = new ArrayList<String>();
+			for (Path p : cpaths) {
+				csums.add(p.getChecksum());
+			}
+
+			/*Set<Node> nodes = new HashSet<Node>();
+			for (Path p : cpaths) {
+				nodes.addAll(p.getNodes());
+			}
+			List<String> crosssings = null;
+			crosssings = findCrossings(cpaths, nodes);
+			csums.addAll(crosssings);*/
+			Collections.sort(csums);
+
+			StringChecksum checksum = new StringChecksum();
+			checksum.update(bn.getRDFClass_name());
+			checksum.update(bn.getLiteralChksum());
+			for (String s : csums) {
+				checksum.update(s);
+			}
+
+			String local_uri = checksum.getChecksumValue();
+			bn.setURI(local_uri);
+		} catch (Exception e) {
+			e.printStackTrace();
+			System.exit(1);
+		}
+	}
+
+	private List<String> findCrossings(List<Path> cpaths, Set<Node> nodes) {
+		List<String> ret = new ArrayList<String>();
+		for (Path path : cpaths) {
+			for (int i = 0; i < path.getNodes().size(); i++) {
+				Node node = path.getNodes().get(i);
+				node.getCrossings().add(path.getChecksum() + "." + i);
+
+			}
+		}
+		for (Node node : nodes) {
+			if (node.getCrossings().size() > 1) {
+				Collections.sort(node.getCrossings());
+				StringChecksum checksum = new StringChecksum();
+
+				for (String val : node.getCrossings()) {
+					checksum.update(val);
+				}
+				ret.add(node.getLiteralChksum() + "=" + checksum.getChecksumValue());
+			}
+			node.getCrossings().clear();
+		}
+		return ret;
+	}
+
+
+	Map<Node, Integer> nodes = new HashMap<Node, Integer>();
+	private List<Path> getCandidatepaths(Node bn, int maxpath) {
+		List<Path> candidate_paths = new ArrayList<Path>();
+		LinkedList<Queue<Path>> q = new LinkedList<Queue<Path>>();
+		for (int i = 0; i < maxpath; i++)
+			q.add(new LinkedList<Path>());
+		Path p0 = new Path(bn);
+		p0.updateProbability(bn.getLiteral_prob());
+		System.out.println("class p:"+classbag.test(bn.getRDFClass_name()));
+		p0.updateProbability(classbag.test(bn.getRDFClass_name()));
+
+		Queue<Path> current = q.poll();
+		current.add(p0);
+		boolean enough=false;
+		while (!q.isEmpty()) {
+			Queue<Path> next = q.peekFirst();
+
+			while (!current.isEmpty()) {
+				Path p1 = current.poll();
+				if(p1.getBits()>500)
+					enough=true;
+				candidate_paths.add(p1);
+
+				handleCandidateLinks("IN",  next, p1, p1.getLast_node().getEdges_in());
+				handleCandidateLinks("OUT", next, p1, p1.getLast_node().getEdges_out());
+			}
+			if(enough)
+			  break;
+			current = q.poll();
+		}
+		
+		String minp="000";
+		for(Path p:candidate_paths) {
+			if(p.getOrderingValue().compareTo(minp)>0)
+				minp=p.getOrderingValue();
+		}
+		
+		List<Path> return_paths = new ArrayList<Path>();
+		for(Path p:candidate_paths) {
+			if(p.getOrderingValue().equals(minp))
+			  return_paths.add(p);
+		}
+		System.out.println("--");
+		System.out.println("rs: "+return_paths.size());
+	    for(Path p:return_paths)
+		{
+	    	Node n=p.getLast_node();
+		    System.out.println(" rs len: "+p.getSteps_taken()+" "+p.getNodes().size()+" "+p.getBits());
+		    System.out.println(" rs n: "+n.getRDFClass_name()+" "+n.getLiteral_prob());
+		}
+		return return_paths;
+	}
+
+
+	private void handleCandidateLinks(String label, Queue<Path> q, Path p1, List<Connection> edges) {
+		p1.update(label);
+		for (Connection e : edges) {
+
+			Node u = e.getPointedNode();
+			Path p2 = new Path(p1, e);
+
+			Integer i = nodes.get(u);
+			if (i == null) {
+				i = new Integer(p2.getSteps_taken());
+				nodes.put(u, i);
+			}
+			if (p2.getSteps_taken() == i) {
+				p2.addEdge(e);
+				p2.updateProbability(u.getLiteral_prob());
+				q.add(p2);
+			} 
+		}
+	}
+
+}
